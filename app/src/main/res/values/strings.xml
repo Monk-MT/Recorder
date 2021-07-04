@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Recorder</string>
+    <!--    <string name="hello_blank_fragment">Hello blank fragment</string>-->
+    <string name="record_title_hint">简短描述</string>
+    <string name="record_title_label">标题</string>
+    <string name="record_details_label">具体描述</string>
+    <string name="record_solved_label">是否已处理</string>
+    <string name="record_item_title">标题</string>
+    <string name="record_item_date">日期</string>
+    <string name="jump_to_first">第一条</string>
+    <string name="jump_to_last">最后一条</string>
+    <string name="data_picker_title">记录日期:</string>
+    <string name="time_picker_title">记录时间:</string>
+    <string name="new_record">新增记录</string>
+    <string name="show_subtitle">显示子标题</string>
+    <string name="hide_subtitle">隐藏子标题</string>
+    <string name="subtitle_format">%1$d! 条记录</string>
+    <string name="record_suspect_text">和谁有关</string>
+    <string name="record_report_text">分享记录</string>
+    <string name="record_report">%1$s! 记录于 %2$s. %3$s, %4$s</string>
+    <string name="record_report_solved">已处理</string>
+    <string name="record_report_unsolved">未处理</string>
+    <string name="record_report_no_suspect">自己的事</string>
+    <string name="record_report_suspect">和 %s 有关</string>
+    <string name="record_report_subject">分享这条记录</string>
+    <string name="send_report">分享</string>
+</resources>
